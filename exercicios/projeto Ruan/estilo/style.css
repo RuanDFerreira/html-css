@@ -10,23 +10,25 @@ body {
   
 }
 
+
+
 header {
     background-color: rgb(29, 29, 29);
     color: aliceblue;
    text-align: center;
    padding: 10px 10px 10px 5px;
+   margin: auto;
+   background-size: auto;
 }
-
-nav > a {
-  color: white;
+.link1{
+    text-align: left;
+    color: white;
+    width: ;;
+    padding-left: 20px;
     text-decoration: none;
-    padding: 0px;
-    font-size: large;
-    padding: 0.5em 1.5em;
     
-    
-
 }
+
 
 a:hover {
 
